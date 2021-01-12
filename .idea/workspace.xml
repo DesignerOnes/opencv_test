@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c7e113b-bb34-4784-a63a-9e00d1f5eb4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/OpenCVProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/argparse_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/child2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/color_hist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dlib-19.17.99-cp37-cp37m-win_amd64.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face/4f5ds64f5d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face/child.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face/face_haar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face/haarcascade_frontalcatface.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face/haarcascade_frontalcatface_extended.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face/haarcascade_frontalface_alt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face/haarcascade_frontalface_alt2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face/haarcascade_frontalface_alt_tree.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face/haarcascade_frontalface_default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_diff/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_diff/dlib_face_recognition_resnet_model_v1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_diff/face_rg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_diff/face_rg_dlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_diff/guo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_diff/liu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_diff/liu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_diff/liu1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_diff/liu2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_diff/liu3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_diff/liu4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_diff/shape_predictor_5_face_landmarks.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_diff/shape_predictor_68_face_landmarks.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_dlib/4f5d6s4fd54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_dlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_dlib/face_dlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_landmarks_dlib/Tom.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_landmarks_dlib/Tom2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_landmarks_dlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_landmarks_dlib/face_landmark_detection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_landmarks_dlib/face_landmark_detection_video.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_landmarks_dlib/face_landmark_rg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_landmarks_dlib/result_fr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_landmarks_dlib/shape_predictor_5_face_landmarks.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_landmarks_dlib/shape_predictor_68_face_landmarks.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_tracking_dlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_tracking_dlib/face_tracking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_tracking_dlib/face_tracking_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_tracking_dlib/object_tracking_dlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hist_mask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_base_img.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_camera_save_video.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_save.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_video.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_video_from_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/view.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/view2.mp4" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mmFV7MDTl1cseOieR8s4PDfAv3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/face_diff" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\OpenCVProject\face_diff" />
+      <recent name="C:\Users\Administrator\PycharmProjects\OpenCVProject\face_tracking_dlib" />
+      <recent name="C:\Users\Administrator\PycharmProjects\OpenCVProject\face_landmarks_dlib" />
+      <recent name="C:\Users\Administrator\PycharmProjects\OpenCVProject\face" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\OpenCVProject\face_diff" />
+      <recent name="C:\Users\Administrator\PycharmProjects\OpenCVProject" />
+      <recent name="C:\Users\Administrator\PycharmProjects\OpenCVProject\face_dlib" />
+      <recent name="C:\Users\Administrator\PycharmProjects\OpenCVProject\face" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.face_rg_dlib">
+    <configuration name="face_dlib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OpenCVProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/face_dlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_dlib/face_dlib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_landmark_detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OpenCVProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/face_landmarks_dlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_landmarks_dlib/face_landmark_detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_landmark_detection_video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OpenCVProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/face_landmarks_dlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_landmarks_dlib/face_landmark_detection_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_landmark_rg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OpenCVProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/face_landmarks_dlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_landmarks_dlib/face_landmark_rg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_rg_dlib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OpenCVProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/face_diff" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_diff/face_rg_dlib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.face_dlib" />
+      <item itemvalue="Python.face_landmark_detection" />
+      <item itemvalue="Python.face_landmark_detection_video" />
+      <item itemvalue="Python.face_landmark_rg" />
+      <item itemvalue="Python.face_rg_dlib" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.face_rg_dlib" />
+        <item itemvalue="Python.face_landmark_rg" />
+        <item itemvalue="Python.face_landmark_detection_video" />
+        <item itemvalue="Python.face_landmark_detection" />
+        <item itemvalue="Python.face_dlib" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c7e113b-bb34-4784-a63a-9e00d1f5eb4a" name="Default Changelist" comment="" />
+      <created>1610090879709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610090879709</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610093585545">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2334" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610093585545" />
+    <state width="1898" height="358" key="GridCell.Tab.0.bottom" timestamp="1610437599257">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610437599257" />
+    <state width="1898" height="358" key="GridCell.Tab.0.center" timestamp="1610437599257">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="358" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610437599257" />
+    <state width="1898" height="358" key="GridCell.Tab.0.left" timestamp="1610437599257">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="358" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610437599257" />
+    <state width="1898" height="358" key="GridCell.Tab.0.right" timestamp="1610437599257">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="358" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610437599257" />
+    <state width="1898" height="358" key="GridCell.Tab.1.bottom" timestamp="1610437599258">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="358" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610437599258" />
+    <state width="1898" height="358" key="GridCell.Tab.1.center" timestamp="1610437599258">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="358" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610437599258" />
+    <state width="1898" height="358" key="GridCell.Tab.1.left" timestamp="1610437599257">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="358" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610437599257" />
+    <state width="1898" height="358" key="GridCell.Tab.1.right" timestamp="1610437599258">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="358" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610437599258" />
+    <state x="2381" y="171" key="SettingsEditor" timestamp="1610346684356">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2381" y="171" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610346684356" />
+    <state x="2560" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1610329222931">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2560" y="362" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610329222931" />
+    <state x="2602" y="450" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1610363570071">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2602" y="450" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610363570071" />
+  </component>
+</project>
